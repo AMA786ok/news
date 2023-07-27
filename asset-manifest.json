@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AMA786ok/GeoNews.git/static/css/main.31d6cfe0.css",
+    "main.js": "/AMA786ok/GeoNews.git/static/js/main.fee226ab.js",
+    "static/js/787.998b4c01.chunk.js": "/AMA786ok/GeoNews.git/static/js/787.998b4c01.chunk.js",
+    "static/media/Ripple-1s-200px.gif": "/AMA786ok/GeoNews.git/static/media/Ripple-1s-200px.d36bc9e99f8ebc308022.gif",
+    "index.html": "/AMA786ok/GeoNews.git/index.html",
+    "main.fee226ab.js.map": "/AMA786ok/GeoNews.git/static/js/main.fee226ab.js.map",
+    "787.998b4c01.chunk.js.map": "/AMA786ok/GeoNews.git/static/js/787.998b4c01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.fee226ab.js"
+  ]
+}
